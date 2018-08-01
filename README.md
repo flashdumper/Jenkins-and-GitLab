@@ -2,8 +2,12 @@
 <p>By Artemii Kropachev and Denis Zuev</p>
 <p>Book on Leanpub - first release in early-mid Aug 2018.</p>
 <p>Video on Udemy - first release in late Aug 2018.</p>
-# ToC
 
+
+
+
+
+# ToC
 # Authors
 ## What is this book about?
 ## Why Jenkins and Gitlab	
