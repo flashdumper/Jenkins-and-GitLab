@@ -1,7 +1,7 @@
 <h1> Learning Jenkins and GitLab with World IT Experts </h1>
 <p>By Artemii Kropachev and Denis Zuev</p>
-<p>Book on Leanpub - first release in Sept 2018.</p>
-<p>Video on Udemy - first release in Sept-Oct 2018.</p>
+<p>Book on Leanpub - first release in Dec 2018.</p>
+<p>Video on Udemy - first release in Early 2019.</p>
 
 
 
